@@ -1,0 +1,19 @@
+{
+  "name": "2k_utils",
+  "version": "1.0.0",
+  "description": "Utilities when creating Cisco Webex Teams Bots",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2Koush/2k_utils.git"
+  },
+  "author": "2Koush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2Koush/2k_utils/issues"
+  },
+  "homepage": "https://github.com/2Koush/2k_utils#readme"
+}
